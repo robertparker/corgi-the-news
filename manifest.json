@@ -39,7 +39,8 @@
         "https://*.politico.com/*",
         "https://*.thedailybeast.com/*",
         "https://*.rollcall.com/*",
-        "https://*.theatlantic.com/*"
+        "https://*.theatlantic.com/*",
+        "https://*.cjonline.com/*"
       ],
       "all_frames": true,
       "js":      ["assets/js/contentScript.js"]
