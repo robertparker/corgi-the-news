@@ -47,8 +47,5 @@
   "background": {
     "scripts": ["assets/js/background.js"],
     "persistent": false
-  },
-  "permissions": [
-    "https://dog.ceo/*"
-  ]
+  }
 }
