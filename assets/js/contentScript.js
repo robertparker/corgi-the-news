@@ -65,7 +65,6 @@ const corgiPhotos = [
   "https://images.unsplash.com/photo-1550159930-40066082a4fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMTAyOH0",
   "https://images.unsplash.com/photo-1554128970-c4b38bec484a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMTAyOH0",
   "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMTAyOH0",
-  "https://images.unsplash.com/photo-1523295408381-f5afe84a443f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMTAyOH0",
   "https://images.unsplash.com/photo-1560743173-567a3b5658b1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMTAyOH0",
   "https://images.unsplash.com/photo-1554692937-643f164bb243?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMTAyOH0",
   "https://images.unsplash.com/photo-1557973964-ee879969b96d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMTAyOH0",
