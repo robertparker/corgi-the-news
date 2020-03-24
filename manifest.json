@@ -1,6 +1,6 @@
 {
   "name": "Corgi The News",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Replace pictures on news websites with corgis.",
   "manifest_version": 2,
   "browser_action": {
