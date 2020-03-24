@@ -9,7 +9,7 @@ document.addEventListener("DOMContentLoaded", function(){
   loadingIcon.style['left'] = '25%';
   loadingIcon.style['top'] = '1%';
 
-  loadingIcon.style['z-index'] = 10;
+  loadingIcon.style['z-index'] = 9999;
   loadingIcon.id = 'corgiLoading';
   document.body.appendChild(loadingIcon);
 
