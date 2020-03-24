@@ -49,10 +49,6 @@
       "js":      ["assets/js/contentScript.js"],
       "run_at": "document_start"
   }],
-  "background": {
-    "scripts": ["assets/js/background.js"],
-    "persistent": false
-  },
   "web_accessible_resources": [
     "assets/images/*"
   ]
