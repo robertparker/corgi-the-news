@@ -3,8 +3,11 @@
   "version": "0.2.1",
   "description": "Replace pictures on news websites with corgis.",
   "manifest_version": 2,
+  "browser_action": {
+
+  },
   "icons": {
-    "16": "assets/images/3corgi16.png",
+    "16": "assets/images/corgiWiggle4.png",
     "32": "assets/images/3corgi32.png",
     "48": "assets/images/3corgi48.png",
     "128": "assets/images/3corgi128.png"
@@ -43,6 +46,14 @@
         "https://*.cjonline.com/*"
       ],
       "all_frames": true,
-      "js":      ["assets/js/contentScript.js"]
-  }]
+      "js":      ["assets/js/contentScript.js"],
+      "run_at": "document_start"
+  }],
+  "background": {
+    "scripts": ["assets/js/background.js"],
+    "persistent": false
+  },
+  "web_accessible_resources": [
+    "assets/images/*"
+  ]
 }
